@@ -1,0 +1,4 @@
+A pure PHP implementation "NewBase60":http://tantek.pbworks.com/NewBase60, origingally created by "Tantek Çelik":http://tantek.com/
+
+This allows you use NewBase60 in PHP without a dependency on the "CASSIS":http://tantek.pbworks.com/CassisProject project. Ported by "David Singleton":http://dsingleton.co.uk.
+
